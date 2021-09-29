@@ -1,0 +1,9 @@
+{
+	"name": "ADFTraining2021",
+	"location": "westeurope",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "21f58b7d-1e40-49b9-b006-2452b5a87859",
+		"tenantId": "6e5433e0-76fc-44b7-b71b-0e5446a3fa94"
+	}
+}

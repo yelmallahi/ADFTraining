@@ -1,0 +1,12 @@
+{
+	"name": "ADFTrainingServer",
+	"type": "Microsoft.DataFactory/factories/linkedservices",
+	"properties": {
+		"annotations": [],
+		"type": "SqlServer",
+		"typeProperties": {
+			"connectionString": "integrated security=False;data source=bdsqlserver.westeurope.cloudapp.azure.com;initial catalog=ADFTraining2021;user id=coaches",
+			"encryptedCredential": "ew0KICAiVmVyc2lvbiI6ICIyMDE3LTExLTMwIiwNCiAgIlByb3RlY3Rpb25Nb2RlIjogIktleSIsDQogICJTZWNyZXRDb250ZW50VHlwZSI6ICJQbGFpbnRleHQiLA0KICAiQ3JlZGVudGlhbElkIjogIkFERlRSQUlOSU5HMjAyMV9hMGVkMzA5YS1kNWNhLTRjNzMtOGY5Yi1jNWZjOTAyMzkwMDUiDQp9"
+		}
+	}
+}
