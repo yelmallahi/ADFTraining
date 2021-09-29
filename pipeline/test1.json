@@ -28,7 +28,7 @@
 					},
 					"sink": {
 						"type": "SqlServerSink",
-						"tableOption": "autoCreate"
+						"preCopyScript": "truncate dbo.YassineFromCsv"
 					},
 					"enableStaging": false,
 					"translator": {
