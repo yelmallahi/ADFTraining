@@ -13,8 +13,9 @@
 				"fileName": "adfTrainingcsv.csv",
 				"container": "training"
 			},
-			"columnDelimiter": ",",
+			"columnDelimiter": ";",
 			"escapeChar": "\\",
+			"firstRowAsHeader": true,
 			"quoteChar": "\""
 		},
 		"schema": []
