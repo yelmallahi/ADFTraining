@@ -49,7 +49,10 @@
 				"outputs": [
 					{
 						"referenceName": "SqlServerTable1",
-						"type": "DatasetReference"
+						"type": "DatasetReference",
+						"parameters": {
+							"TableName": "YassineFromCsv"
+						}
 					}
 				]
 			}
