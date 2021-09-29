@@ -10,7 +10,7 @@
 		"typeProperties": {
 			"location": {
 				"type": "AzureBlobStorageLocation",
-				"fileName": "adfTrainingcsv",
+				"fileName": "adfTrainingcsv.csv",
 				"container": "training"
 			},
 			"columnDelimiter": ",",
